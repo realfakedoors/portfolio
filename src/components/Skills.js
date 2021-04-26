@@ -1,5 +1,12 @@
 import React from "react";
 
+import ReactLogo from "../assets/tech_logos/react.png";
+import RubyLogo from "../assets/tech_logos/.png";
+import RailsLogo from "../assets/tech_logos/.png";
+import JsLogo from "../assets/tech_logos/.png";
+import HtmlLogo from "../assets/tech_logos/.png";
+import CssLogo from "../assets/tech_logos/.png";
+
 const Skills = () => {
   return (
     <div className={"skills"}>
@@ -9,42 +16,42 @@ const Skills = () => {
           target={"_blank"}
           rel={"noopener noreferrer"}
         >
-          <img src={"/tech_icons/react.png"} alt={"react"} />
+          <img src={ReactLogo} alt={"react"} />
         </a>
         <a
           href={"https://ruby-doc.org/"}
           target={"_blank"}
           rel={"noopener noreferrer"}
         >
-          <img src={"/tech_icons/ruby.png"} alt={"ruby"} />
+          <img src={RubyLogo} alt={"ruby"} />
         </a>
         <a
           href={"https://guides.rubyonrails.org/index.html"}
           target={"_blank"}
           rel={"noopener noreferrer"}
         >
-          <img src={"/tech_icons/rails.png"} alt={"rails"} />
+          <img src={RailsLogo} alt={"rails"} />
         </a>
         <a
           href={"https://developer.mozilla.org/en-US/docs/Web/JavaScript"}
           target={"_blank"}
           rel={"noopener noreferrer"}
         >
-          <img src={"/tech_icons/js.png"} alt={"javascript"} />
+          <img src={JsLogo} alt={"javascript"} />
         </a>
         <a
           href={"https://developer.mozilla.org/en-US/docs/Web/HTML"}
           target={"_blank"}
           rel={"noopener noreferrer"}
         >
-          <img src={"/tech_icons/html.png"} alt={"html"} />
+          <img src={HtmlLogo} alt={"html"} />
         </a>
         <a
           href={"https://developer.mozilla.org/en-US/docs/Web/CSS"}
           target={"_blank"}
           rel={"noopener noreferrer"}
         >
-          <img src={"/tech_icons/css.png"} alt={"css"} />
+          <img src={CssLogo} alt={"css"} />
         </a>
       </div>
     </div>
