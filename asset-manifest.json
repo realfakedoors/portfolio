@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.51891b5f.chunk.css",
-    "main.js": "/portfolio/static/js/main.98ed4c8d.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.98ed4c8d.chunk.js.map",
+    "main.js": "/portfolio/static/js/main.9b9e8872.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.9b9e8872.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.a9f76519.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.a9f76519.js.map",
     "static/css/2.49be9a4e.chunk.css": "/portfolio/static/css/2.49be9a4e.chunk.css",
@@ -18,16 +18,22 @@
     "static/media/company-page.3c91acdc.png": "/portfolio/static/media/company-page.3c91acdc.png",
     "static/media/course1.9d561be1.png": "/portfolio/static/media/course1.9d561be1.png",
     "static/media/course2.61fadca1.png": "/portfolio/static/media/course2.61fadca1.png",
+    "static/media/css.a8ddf05e.png": "/portfolio/static/media/css.a8ddf05e.png",
     "static/media/default-colors.09bce0cd.png": "/portfolio/static/media/default-colors.09bce0cd.png",
     "static/media/form-elements.999720b5.png": "/portfolio/static/media/form-elements.999720b5.png",
     "static/media/friendships.84ebfa0e.png": "/portfolio/static/media/friendships.84ebfa0e.png",
     "static/media/gameplay.ea1e8b4b.png": "/portfolio/static/media/gameplay.ea1e8b4b.png",
     "static/media/group.a8c5cace.png": "/portfolio/static/media/group.a8c5cace.png",
+    "static/media/html.5906dff1.png": "/portfolio/static/media/html.5906dff1.png",
+    "static/media/js.8618298a.png": "/portfolio/static/media/js.8618298a.png",
     "static/media/likes-and-comments.6554efe7.png": "/portfolio/static/media/likes-and-comments.6554efe7.png",
     "static/media/listings.0205ef7f.png": "/portfolio/static/media/listings.0205ef7f.png",
     "static/media/mail.2dcacc56.svg": "/portfolio/static/media/mail.2dcacc56.svg",
     "static/media/navbar.c4edcf94.png": "/portfolio/static/media/navbar.c4edcf94.png",
+    "static/media/rails.55f32039.png": "/portfolio/static/media/rails.55f32039.png",
+    "static/media/react.f7fcd63f.png": "/portfolio/static/media/react.f7fcd63f.png",
     "static/media/results.446027d2.png": "/portfolio/static/media/results.446027d2.png",
+    "static/media/ruby.0b422d19.png": "/portfolio/static/media/ruby.0b422d19.png",
     "static/media/search.0bd16d2e.png": "/portfolio/static/media/search.0bd16d2e.png",
     "static/media/shop.308f6876.png": "/portfolio/static/media/shop.308f6876.png",
     "static/media/story.10d9d78f.png": "/portfolio/static/media/story.10d9d78f.png",
@@ -39,6 +45,6 @@
     "static/css/2.49be9a4e.chunk.css",
     "static/js/2.d27039b3.chunk.js",
     "static/css/main.51891b5f.chunk.css",
-    "static/js/main.98ed4c8d.chunk.js"
+    "static/js/main.9b9e8872.chunk.js"
   ]
 }
