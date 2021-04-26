@@ -4,7 +4,7 @@ A basic single-page developer portfolio.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-###Run it locally
+### Run it locally
 
 In your project directory:
 
