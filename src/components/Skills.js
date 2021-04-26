@@ -1,11 +1,11 @@
 import React from "react";
 
 import ReactLogo from "../assets/tech_logos/react.png";
-import RubyLogo from "../assets/tech_logos/.png";
-import RailsLogo from "../assets/tech_logos/.png";
-import JsLogo from "../assets/tech_logos/.png";
-import HtmlLogo from "../assets/tech_logos/.png";
-import CssLogo from "../assets/tech_logos/.png";
+import RubyLogo from "../assets/tech_logos/ruby.png";
+import RailsLogo from "../assets/tech_logos/rails.png";
+import JsLogo from "../assets/tech_logos/js.png";
+import HtmlLogo from "../assets/tech_logos/html.png";
+import CssLogo from "../assets/tech_logos/css.png";
 
 const Skills = () => {
   return (
