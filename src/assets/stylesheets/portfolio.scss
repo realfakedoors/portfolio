@@ -90,9 +90,10 @@ body {
 }
 
 .modal-content {
-  height: 90vh;
   display: flex;
   justify-content: center;
+  margin: 0;
+  width: auto;
 }
 
 .email-button {
@@ -128,10 +129,6 @@ body {
         margin: 8px;
       }
     }
-  }
-  .modal-content {
-    height: auto;
-    width: auto;
   }
 }
 

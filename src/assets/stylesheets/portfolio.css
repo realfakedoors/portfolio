@@ -72,9 +72,10 @@ body {
     margin-top: 8px; }
 
 .modal-content {
-  height: 90vh;
   display: flex;
-  justify-content: center; }
+  justify-content: center;
+  margin: 0;
+  width: auto; }
 
 .email-button {
   margin: 16px auto 40px; }
@@ -101,11 +102,7 @@ body {
   .project .photo-gallery {
     justify-content: center; }
     .project .photo-gallery .screenshot {
-      margin: 8px; }
-
-  .modal-content {
-    height: auto;
-    width: auto; } }
+      margin: 8px; } }
 .title-font {
   font-family: "Changa One", Tahoma, serif;
   text-align: center; }
