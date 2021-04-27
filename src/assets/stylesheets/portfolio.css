@@ -72,7 +72,6 @@ body {
     margin-top: 8px; }
 
 .modal-content {
-  width: 90vw;
   height: 90vh;
   display: flex;
   justify-content: center; }
@@ -102,7 +101,11 @@ body {
   .project .photo-gallery {
     justify-content: center; }
     .project .photo-gallery .screenshot {
-      margin: 8px; } }
+      margin: 8px; }
+
+  .modal-content {
+    height: auto;
+    width: auto; } }
 .title-font {
   font-family: "Changa One", Tahoma, serif;
   text-align: center; }

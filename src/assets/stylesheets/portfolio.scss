@@ -90,7 +90,6 @@ body {
 }
 
 .modal-content {
-  width: 90vw;
   height: 90vh;
   display: flex;
   justify-content: center;
@@ -129,6 +128,10 @@ body {
         margin: 8px;
       }
     }
+  }
+  .modal-content {
+    height: auto;
+    width: auto;
   }
 }
 
