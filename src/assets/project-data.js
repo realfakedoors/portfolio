@@ -3,13 +3,14 @@ import weThrowCourse2 from "./project_screenshots/weThrow/course2.png";
 import weThrowDM from "./project_screenshots/weThrow/DM.png";
 import weThrowListings from "./project_screenshots/weThrow/listings.png";
 
+import stageSelection from "./project_screenshots/waldo/stage-selection.png";
+import characterMemorization from "./project_screenshots/waldo/characters.png";
+import gameplay from "./project_screenshots/waldo/gameplay.png";
+import scoreScreen from "./project_screenshots/waldo/score-screen.png";
+
 import storefrontShop from "./project_screenshots/storefront/shop.png";
 import storefrontCart from "./project_screenshots/storefront/cart.png";
 import storefrontStory from "./project_screenshots/storefront/story.png";
-
-import forecastSearch from "./project_screenshots/forecast_search/search.png";
-import forecastResults from "./project_screenshots/forecast_search/results.png";
-import forecastWeather from "./project_screenshots/forecast_search/weather.png";
 
 import saguaroCard from "./project_screenshots/saguaro/card.png";
 import saguaroNavbar from "./project_screenshots/saguaro/navbar.png";
@@ -34,20 +35,20 @@ const projectData = [
     screenshots: [weThrowCourse1, weThrowCourse2, weThrowDM, weThrowListings],
   },
   {
+    projectName: "Tag, You're It!",
+    repoUrl: "https://github.com/realfakedoors/waldo",
+    liveUrl: "https://tranquil-retreat-21663.herokuapp.com/",
+    thoughts:
+      "This is a photo tagging game where players can pick subjects from a crowded photo, like a Where's Waldo book. It was my first full-stack app, and really showed me why it's so powerful to be able to back up a dynamic front-end with persistent data.",
+    screenshots: [stageSelection, characterMemorization, gameplay, scoreScreen],
+  },
+  {
     projectName: "storefront",
     repoUrl: "https://github.com/realfakedoors/storefront",
     liveUrl: "https://warm-basin-73358.herokuapp.com/shop",
     thoughts:
       "I’m proud of this one because it was the first time I felt like I really understood the power of useState and useEffect in React, and the first time I got to play around with react-router. I also felt like I made a well-designed and intuitive interface that just feels better than a lot of what’s out there in terms of online shopping.",
     screenshots: [storefrontShop, storefrontCart, storefrontStory],
-  },
-  {
-    projectName: "forecast_search",
-    repoUrl: "https://github.com/realfakedoors/forecast_search",
-    liveUrl: "https://realfakedoors.github.io/forecast_search",
-    thoughts:
-      "This was a mid-level React exercise in implementing third-party APIs. I included it here because it was a big turning point in my React knowledge. This project introduced me to hooks, conditional rendering, and the awesomeness of the OpenWeatherMap API.",
-    screenshots: [forecastSearch, forecastResults, forecastWeather],
   },
   {
     projectName: "Saguaro",
